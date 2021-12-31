@@ -22,7 +22,8 @@ Important parameters to change during a run are in lines 23-30, compare with Tab
 
 ------
 
-Update on 31-Dec-21: several new files were added on that day, for fine-tuning GermanBERT and statute paragraph search, with comments in the commit. 
+Update on 31-Dec-21: several new files were added on that day, for fine-tuning GermanBERT and statute paragraph search, with comments in the commit, at
+https://github.com/lilytang2017/paragraphSearch/commit/62255ec1df74f58827c07e4a51f7eb5a096f904f 
 
 
 
