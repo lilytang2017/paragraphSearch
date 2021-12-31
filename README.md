@@ -20,7 +20,9 @@ Important parameters to change during a run are in lines 23-30, compare with Tab
 * law.csv: statute (law) paragraphs, with law ID, article number and paragraph number (see section 3.1, statute paragraphs)
 * triples.v3.csv: triples (see section 3.2 in the paper)
 
+------
 
+Update on 31-Dec-21: several new files were added on that day, for fine-tuning GermanBERT and statute paragraph search, with comments in the commit. 
 
 
 
